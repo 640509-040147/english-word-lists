@@ -1,2 +1,2 @@
-# english-word-lists
-Different English word lists
+# wordlists
+English world lists
